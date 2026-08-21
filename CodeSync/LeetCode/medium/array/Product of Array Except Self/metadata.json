@@ -1,0 +1,15 @@
+{
+  "submissionTimestamp": "2026-08-21T03:30:40.151Z",
+  "runtime": "2 ms",
+  "memoryUsage": "64.36 MB",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "platform": "LeetCode",
+  "language": "LeetCode 75",
+  "problemTitle": "Product of Array Except Self",
+  "problemUrl": "https://leetcode.com/problems/product-of-array-except-self/submissions/2114581735/?envType=study-plan-v2&envId=leetcode-75",
+  "submissionId": "kt5t64"
+}
