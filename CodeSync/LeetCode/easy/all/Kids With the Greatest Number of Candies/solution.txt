@@ -7,7 +7,7 @@
  * Topics: Array
  * Runtime: 0 ms
  * Memory: 12.30 MB
- * Synced: 2026-08-21T15:36:31.473Z
+ * Synced: 2026-08-21T15:37:19.465Z
  */
 
 class Solution(object):
