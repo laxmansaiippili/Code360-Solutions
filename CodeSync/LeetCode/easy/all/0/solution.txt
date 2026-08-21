@@ -1,0 +1,27 @@
+/*
+ * Platform: LeetCode
+ * Problem: 0
+ * URL: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75
+ * Language: LeetCode 75
+ * Difficulty: Easy
+ * Topics: Array
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-08-21T03:28:11.785Z
+ */
+
+class Solution(object):
+    def kidsWithCandies(self, candies, extraCandies):
+        """
+        :type candies: List[int]
+        :type extraCandies: int
+        :rtype: List[bool]
+        """
+        great=max(candies);
+        arr=list();
+        for candie in candies:
+            if(candie+extraCandies>=great):
+                arr.append(True);
+            else:
+                arr.append(False);
+        return arr;
