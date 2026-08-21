@@ -7,7 +7,7 @@
 - Runtime: 305 ms
 - Memory: N/A
 - Problem URL: https://www.naukri.com/code360/problems/ninja-and-the-sorted-check_6581957
-- Synced: 2026-08-21T03:28:43.633Z
+- Synced: 2026-08-21T13:54:20.464Z
 
 ## Problem Description
 
