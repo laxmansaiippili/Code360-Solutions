@@ -7,7 +7,7 @@
 - Runtime: 2 ms
 - Memory: 64.36 MB
 - Problem URL: https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=leetcode-75
-- Synced: 2026-08-21T14:27:54.466Z
+- Synced: 2026-08-21T14:28:43.469Z
 
 ## Problem Description
 
