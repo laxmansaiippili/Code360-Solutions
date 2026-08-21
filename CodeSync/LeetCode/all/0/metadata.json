@@ -1,14 +1,15 @@
 {
-  "submissionTimestamp": "2026-08-21T03:28:11.785Z",
+  "submissionTimestamp": "2026-08-21T03:29:54.026Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Easy",
+  "difficulty": "Medium",
   "tags": [
-    "Array"
+    "Array",
+    "Prefix Sum"
   ],
   "platform": "LeetCode",
   "language": "LeetCode 75",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75",
-  "submissionId": "weqhqf"
+  "problemUrl": "https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75",
+  "submissionId": "po6nup"
 }
