@@ -1,0 +1,19 @@
+/*
+ * Platform: Coding Ninjas (Code360)
+ * Problem: Even or Odd
+ * URL: https://www.naukri.com/code360/problems/even-or-odd_7463066
+ * Language: C++ (g++ 5.4)
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-08-21T03:24:45.897Z
+ */
+
+#include<iostream>
+using namespace std;
+ 
+int main() {
+    // Write your code here
+    
+}
