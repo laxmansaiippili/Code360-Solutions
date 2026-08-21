@@ -7,7 +7,7 @@
  * Topics: Array, Prefix Sum
  * Runtime: 2 ms
  * Memory: 64.36 MB
- * Synced: 2026-08-21T04:39:12.064Z
+ * Synced: 2026-08-21T04:39:59.060Z
  */
 
 class Solution {
