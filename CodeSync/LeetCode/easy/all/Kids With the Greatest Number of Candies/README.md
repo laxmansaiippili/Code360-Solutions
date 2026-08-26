@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 12.30 MB
 - Problem URL: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/2114580466/?envType=study-plan-v2&envId=leetcode-75
-- Synced: 2026-08-21T16:15:59.461Z
+- Synced: 2026-08-21T16:16:46.469Z
 
 ## Problem Description
 
