@@ -1,18 +1,17 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75
- * Language: LeetCode 75
+ * URL: https://leetcode.com/problems/set-matrix-zeroes/description/
+ * Language: Problem List
  * Difficulty: Medium
- * Topics: Array, Prefix Sum
+ * Topics: Array, Hash Table, Matrix
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-08-21T03:29:54.026Z
+ * Synced: 2026-08-22T01:41:41.204Z
  */
 
-class Solution(object):
-    def productExceptSelf(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
+class Solution {
+    public void setZeroes(int[][] matrix) {
+        
+    }
+}
