@@ -7,7 +7,7 @@
  * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-15T15:22:59.157Z
+ * Synced: 2026-11-15T15:23:44.572Z
  */
 
 class Solution(object):
@@ -17,4 +17,4 @@ class Solution(object):
         :rtype: int
         """
         k=0;max=0;
-        for
+        for num in nums:
