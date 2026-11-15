@@ -1,17 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: Majority Element
- * URL: https://leetcode.com/problems/majority-element/description/
+ * URL: https://leetcode.com/problems/majority-element/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-15T15:21:28.483Z
+ * Synced: 2026-11-15T15:22:13.573Z
  */
 
-class Solution {
-    public int majorityElement(int[] nums) {
-        
-    }
-}
+class Solution(object):
+    def majorityElement(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
