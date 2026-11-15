@@ -1,14 +1,16 @@
 {
-  "submissionTimestamp": "2026-08-21T03:28:11.785Z",
+  "submissionTimestamp": "2026-11-15T15:17:12.975Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
-    "Array"
+    "Array",
+    "Two Pointers",
+    "Sorting"
   ],
   "platform": "LeetCode",
-  "language": "LeetCode 75",
+  "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75",
-  "submissionId": "weqhqf"
+  "problemUrl": "https://leetcode.com/problems/merge-sorted-array/description/",
+  "submissionId": "jkuk6v"
 }
