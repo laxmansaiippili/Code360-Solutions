@@ -1,0 +1,19 @@
+{
+  "submissionTimestamp": "2026-11-15T15:21:28.483Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+  ],
+  "platform": "LeetCode",
+  "language": "Problem List",
+  "problemTitle": "Majority Element",
+  "problemUrl": "https://leetcode.com/problems/majority-element/description/",
+  "submissionId": "22iev8"
+}
