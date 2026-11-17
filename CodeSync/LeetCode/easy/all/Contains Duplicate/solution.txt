@@ -7,7 +7,7 @@
  * Topics: Array, Hash Table, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-17T17:40:36.409Z
+ * Synced: 2026-11-17T17:41:22.745Z
  */
 
 class Solution(object):
@@ -17,3 +17,6 @@ class Solution(object):
         :rtype: bool
         """
         seen=set()
+        for num in nums:
+            if num not in seen:
+                seen.add
