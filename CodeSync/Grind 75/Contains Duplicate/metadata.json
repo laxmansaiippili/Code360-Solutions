@@ -1,16 +1,17 @@
 {
-  "submissionTimestamp": "2026-11-17T17:42:07.963Z",
-  "runtime": "N/A",
+  "submissionTimestamp": "2026-11-17T17:42:54.043Z",
+  "runtime": ". S",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
     "Array",
     "Hash Table",
-    "Sorting"
+    "Sorting",
+    "Discover more"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Contains Duplicate",
-  "problemUrl": "https://leetcode.com/problems/contains-duplicate/?utm_source=chatgpt.com",
-  "submissionId": "zcgsfx"
+  "problemUrl": "https://leetcode.com/problems/contains-duplicate/solutions/?utm_source=chatgpt.com",
+  "submissionId": "iix37s"
 }
