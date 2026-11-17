@@ -1,0 +1,19 @@
+/*
+ * Platform: LeetCode
+ * Problem: Concatenation of Array
+ * URL: https://leetcode.com/problems/concatenation-of-array/?utm_source=chatgpt.com
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array, Simulation
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-17T17:33:53.605Z
+ */
+
+class Solution(object):
+    def getConcatenation(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        return
