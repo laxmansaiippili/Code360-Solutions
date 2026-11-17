@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: Array, Matrix, Discover more
-- Runtime: 0 ms
-- Memory: 12.22 MB
-- Problem URL: https://leetcode.com/problems/richest-customer-wealth/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:31:30.138Z
+- Runtime: . S
+- Memory: N/A
+- Problem URL: https://leetcode.com/problems/richest-customer-wealth/solutions/?utm_source=chatgpt.com
+- Synced: 2026-11-17T17:32:18.006Z
 
 ## Problem Description
 
