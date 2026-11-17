@@ -7,7 +7,7 @@
  * Topics: Array, Matrix, Discover more
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-17T17:28:43.762Z
+ * Synced: 2026-11-17T17:29:30.109Z
  */
 
 class Solution(object):
@@ -17,4 +17,7 @@ class Solution(object):
         :rtype: int
         """
         for i in range(len(accounts)):
-            for j in range(len())
+            sum=0;
+            for j in range(len(accounts[])):
+        maxsum=0;
+                sum=sum+s
