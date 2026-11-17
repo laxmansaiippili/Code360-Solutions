@@ -6,8 +6,8 @@
  * Difficulty: Easy
  * Topics: Array, Simulation
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-11-17T17:36:22.704Z
+ * Memory: 12.60 MB
+ * Synced: 2026-11-17T17:37:09.374Z
  */
 
 class Solution(object):
@@ -16,4 +16,4 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        return [nums[i%len(nums)] for i in range(2*len(nums))]
+        return nums+nums
