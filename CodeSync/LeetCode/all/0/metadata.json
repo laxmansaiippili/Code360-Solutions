@@ -1,15 +1,15 @@
 {
-  "submissionTimestamp": "2026-08-21T03:29:54.026Z",
+  "submissionTimestamp": "2026-11-17T17:33:07.967Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Prefix Sum"
+    "Simulation"
   ],
   "platform": "LeetCode",
-  "language": "LeetCode 75",
+  "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75",
-  "submissionId": "po6nup"
+  "problemUrl": "https://leetcode.com/problems/concatenation-of-array/description/?utm_source=chatgpt.com",
+  "submissionId": "6tdkop"
 }
