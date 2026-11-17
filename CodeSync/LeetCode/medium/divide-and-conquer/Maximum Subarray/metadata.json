@@ -1,16 +1,17 @@
 {
-  "submissionTimestamp": "2026-11-17T17:53:36.282Z",
+  "submissionTimestamp": "2026-11-17T17:54:29.841Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
     "Array",
     "Divide and Conquer",
-    "Dynamic Programming"
+    "Dynamic Programming",
+    "Discover more"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Maximum Subarray",
-  "problemUrl": "https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com",
+  "problemUrl": "https://leetcode.com/problems/maximum-subarray/solutions/?utm_source=chatgpt.com",
   "submissionId": "gke25l"
 }
