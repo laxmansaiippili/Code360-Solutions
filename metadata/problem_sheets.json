@@ -31,5 +31,6 @@
     "StriverA2Z",
     "StriverSDE",
     "AlgoMaster300"
-  ]
+  ],
+  "leetcode:build-array-from-permutation": []
 }
