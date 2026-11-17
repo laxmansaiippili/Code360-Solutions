@@ -32,5 +32,6 @@
     "StriverSDE",
     "AlgoMaster300"
   ],
-  "leetcode:build-array-from-permutation": []
+  "leetcode:build-array-from-permutation": [],
+  "leetcode:richest-customer-wealth": []
 }
