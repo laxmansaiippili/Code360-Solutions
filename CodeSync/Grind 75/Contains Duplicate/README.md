@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/contains-duplicate/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:41:22.745Z
+- Synced: 2026-11-17T17:42:07.963Z
 
 ## Problem Description
 
