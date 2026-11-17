@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-11-17T17:44:25.062Z",
+  "submissionTimestamp": "2026-11-17T17:45:10.458Z",
   "runtime": "0 ms",
-  "memoryUsage": "25.44 MB",
+  "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
     "Array",
@@ -13,5 +13,5 @@
   "language": "Problem List",
   "problemTitle": "Contains Duplicate",
   "problemUrl": "https://leetcode.com/problems/contains-duplicate/?utm_source=chatgpt.com",
-  "submissionId": "p35z68"
+  "submissionId": "syzrlj"
 }
