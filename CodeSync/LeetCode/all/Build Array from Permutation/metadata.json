@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-11-17T17:19:06.482Z",
+  "submissionTimestamp": "2026-11-17T17:19:52.232Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Build Array from Permutation",
-  "problemUrl": "https://leetcode.com/problems/build-array-from-permutation/editorial/?utm_source=chatgpt.com",
-  "submissionId": "8e4ucp"
+  "problemUrl": "https://leetcode.com/problems/build-array-from-permutation/?utm_source=chatgpt.com",
+  "submissionId": "19o09e"
 }
