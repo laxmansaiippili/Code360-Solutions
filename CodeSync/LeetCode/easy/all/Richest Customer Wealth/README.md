@@ -3,11 +3,11 @@
 - Platform: LeetCode
 - Language: Problem List
 - Difficulty: Easy
-- Topics: Array, Matrix
+- Topics: Array, Matrix, Discover more
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/richest-customer-wealth/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:27:12.862Z
+- Problem URL: https://leetcode.com/problems/richest-customer-wealth/description/?utm_source=chatgpt.com
+- Synced: 2026-11-17T17:27:58.598Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ You are given an m x n integer grid accounts where accounts[i][j] is the amount 
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Array, Matrix. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Array, Matrix, Discover more. Review the synced source file for the implementation details.
