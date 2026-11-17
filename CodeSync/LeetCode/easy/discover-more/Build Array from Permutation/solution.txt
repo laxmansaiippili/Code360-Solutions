@@ -6,15 +6,15 @@
  * Difficulty: Easy
  * Topics: Array, Simulation, Discover more
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-11-17T17:23:49.234Z
+ * Memory: 12.25 MB
+ * Synced: 2026-11-17T17:24:34.589Z
  */
 
-class Solution(object):
-    def buildArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        n=len(nums)
-        return [nums[nums[i]] for i in range(n)]
+[0,2,1,5,3,4]
+[5,0,1,2,3,4]
+[0,1,2,4,5,3]
+[4,5,0,1,2,3]
+[0,1,2,4,5,3]
+[4,5,0,1,2,3]
+[0,2,1,5,3,4]
+[5,0,1,2,3,4]
