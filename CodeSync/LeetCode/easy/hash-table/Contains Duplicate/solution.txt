@@ -1,0 +1,26 @@
+/*
+ * Platform: LeetCode
+ * Problem: Contains Duplicate
+ * URL: https://leetcode.com/problems/contains-duplicate/description/?utm_source=chatgpt.com
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array, Hash Table, Sorting
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-17T17:37:31.722Z
+ */
+
+class Solution(object):
+    def containsDuplicate(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        seen=set()
+        for num in nums:
+            if num in seen:
+                return True;
+                break;
+            seen.add(num);
+        else:
+            return False;
