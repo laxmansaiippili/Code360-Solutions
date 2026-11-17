@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-11-17T17:37:09.374Z",
+  "submissionTimestamp": "2026-11-17T17:38:08.558Z",
   "runtime": "0 ms",
-  "memoryUsage": "12.60 MB",
+  "memoryUsage": "12.38 MB",
   "difficulty": "Easy",
   "tags": [
     "Array",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Concatenation of Array",
-  "problemUrl": "https://leetcode.com/problems/concatenation-of-array/?utm_source=chatgpt.com",
+  "problemUrl": "https://leetcode.com/problems/concatenation-of-array/submissions/2198186089/?utm_source=chatgpt.com",
   "submissionId": "gpx1ik"
 }
