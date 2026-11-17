@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:50:13.550Z
+- Synced: 2026-11-17T17:50:59.547Z
 
 ## Problem Description
 
