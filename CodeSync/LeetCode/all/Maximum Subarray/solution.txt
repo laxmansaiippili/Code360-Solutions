@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Maximum Subarray
- * URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/maximum-subarray/solutions/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Medium
- * Topics: Array, Divide and Conquer, Dynamic Programming
+ * Topics: Array, Divide and Conquer, Dynamic Programming, Discover more
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-17T17:53:36.282Z
+ * Synced: 2026-11-17T17:54:29.841Z
  */
 
 class Solution(object):
