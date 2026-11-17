@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Build Array from Permutation
- * URL: https://leetcode.com/problems/build-array-from-permutation/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/build-array-from-permutation/description/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Simulation, Discover more
- * Runtime: N/A
+ * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-11-17T17:21:44.855Z
+ * Synced: 2026-11-17T17:22:52.227Z
  */
 
 class Solution(object):
@@ -17,4 +17,4 @@ class Solution(object):
         :rtype: List[int]
         """
         n=len(nums)
-        return [i for]
+        return [nums[nums[i]] for i in range(n)]
