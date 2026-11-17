@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/richest-customer-wealth/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:28:43.762Z
+- Synced: 2026-11-17T17:29:30.109Z
 
 ## Problem Description
 
