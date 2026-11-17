@@ -1,0 +1,14 @@
+/*
+ * Platform: LeetCode
+ * Problem: Build Array from Permutation
+ * URL: https://leetcode.com/problems/build-array-from-permutation/description/?utm_source=chatgpt.com
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array, Simulation
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-17T17:15:20.288Z
+ */
+
+[0,2,1,5,3,4]
+[5,0,1,2,3,4]
