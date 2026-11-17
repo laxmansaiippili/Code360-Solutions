@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Contains Duplicate
- * URL: https://leetcode.com/problems/contains-duplicate/solutions/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/contains-duplicate/submissions/2198190873/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Hash Table, Sorting, Discover more
- * Runtime: . S
- * Memory: N/A
- * Synced: 2026-11-17T17:42:54.043Z
+ * Runtime: 0 ms
+ * Memory: 25.44 MB
+ * Synced: 2026-11-17T17:43:39.763Z
  */
 
 class Solution(object):
