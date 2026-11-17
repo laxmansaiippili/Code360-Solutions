@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Contains Duplicate
- * URL: https://leetcode.com/problems/contains-duplicate/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/contains-duplicate/solutions/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Easy
- * Topics: Array, Hash Table, Sorting
- * Runtime: N/A
+ * Topics: Array, Hash Table, Sorting, Discover more
+ * Runtime: . S
  * Memory: N/A
- * Synced: 2026-11-17T17:42:07.963Z
+ * Synced: 2026-11-17T17:42:54.043Z
  */
 
 class Solution(object):
@@ -19,4 +19,6 @@ class Solution(object):
         seen=set()
         for num in nums:
             if num in seen:
-                return true
+                return True;
+            seen.add(num);
+        return False;
