@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Build Array from Permutation
- * URL: https://leetcode.com/problems/build-array-from-permutation/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/build-array-from-permutation/description/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Simulation, Discover more
  * Runtime: 0 ms
- * Memory: 12.25 MB
- * Synced: 2026-11-17T17:24:34.589Z
+ * Memory: N/A
+ * Synced: 2026-11-17T17:25:49.717Z
  */
 
 [0,2,1,5,3,4]
