@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: Maximum Subarray
+ * URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Array, Divide and Conquer, Dynamic Programming
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-17T17:46:43.409Z
+ */
+
+class Solution(object):
+    def maxSubArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
