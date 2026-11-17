@@ -6,8 +6,8 @@
 - Topics: Array, Hash Table, Sorting
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/contains-duplicate/description/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:37:31.722Z
+- Problem URL: https://leetcode.com/problems/contains-duplicate/?utm_source=chatgpt.com
+- Synced: 2026-11-17T17:38:55.495Z
 
 ## Problem Description
 
