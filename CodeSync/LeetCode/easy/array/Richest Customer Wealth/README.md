@@ -6,8 +6,8 @@
 - Topics: Array, Matrix, Discover more
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/richest-customer-wealth/description/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:27:58.598Z
+- Problem URL: https://leetcode.com/problems/richest-customer-wealth/?utm_source=chatgpt.com
+- Synced: 2026-11-17T17:28:43.762Z
 
 ## Problem Description
 
