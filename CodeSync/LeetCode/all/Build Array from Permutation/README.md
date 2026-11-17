@@ -6,8 +6,8 @@
 - Topics: Array, Simulation
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/build-array-from-permutation/description/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:15:20.288Z
+- Problem URL: https://leetcode.com/problems/build-array-from-permutation/?utm_source=chatgpt.com
+- Synced: 2026-11-17T17:16:06.226Z
 
 ## Problem Description
 
