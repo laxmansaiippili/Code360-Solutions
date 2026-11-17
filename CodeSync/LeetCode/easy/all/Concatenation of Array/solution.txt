@@ -5,9 +5,9 @@
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Simulation
- * Runtime: N/A
+ * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-11-17T17:33:53.605Z
+ * Synced: 2026-11-17T17:36:22.704Z
  */
 
 class Solution(object):
@@ -16,4 +16,4 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        return
+        return [nums[i%len(nums)] for i in range(2*len(nums))]
