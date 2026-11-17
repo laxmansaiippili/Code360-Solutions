@@ -1,14 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: Build Array from Permutation
- * URL: https://leetcode.com/problems/build-array-from-permutation/description/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/build-array-from-permutation/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-17T17:15:20.288Z
+ * Synced: 2026-11-17T17:16:06.226Z
  */
 
-[0,2,1,5,3,4]
-[5,0,1,2,3,4]
+class Solution(object):
+    def buildArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
