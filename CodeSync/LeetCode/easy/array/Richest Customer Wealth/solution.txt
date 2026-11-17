@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Richest Customer Wealth
- * URL: https://leetcode.com/problems/richest-customer-wealth/description/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/richest-customer-wealth/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Matrix
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-17T17:26:09.362Z
+ * Synced: 2026-11-17T17:27:12.862Z
  */
 
 class Solution(object):
@@ -16,7 +16,3 @@ class Solution(object):
         :type accounts: List[List[int]]
         :rtype: int
         """
-        maxsum=0;
-        for i in range(len(accounts)):
-            maxsum=max(maxsum,sum(accounts[i]));
-        return maxsum;
