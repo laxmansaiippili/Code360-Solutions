@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-11-17T17:30:16.010Z",
-  "runtime": "N/A",
-  "memoryUsage": "N/A",
+  "submissionTimestamp": "2026-11-17T17:31:30.138Z",
+  "runtime": "0 ms",
+  "memoryUsage": "12.22 MB",
   "difficulty": "Easy",
   "tags": [
     "Array",
@@ -12,5 +12,5 @@
   "language": "Problem List",
   "problemTitle": "Richest Customer Wealth",
   "problemUrl": "https://leetcode.com/problems/richest-customer-wealth/?utm_source=chatgpt.com",
-  "submissionId": "hmlpog"
+  "submissionId": "jek5bl"
 }
