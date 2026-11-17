@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-11-17T17:37:31.722Z",
+  "submissionTimestamp": "2026-11-17T17:40:36.409Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Contains Duplicate",
-  "problemUrl": "https://leetcode.com/problems/contains-duplicate/description/?utm_source=chatgpt.com",
-  "submissionId": "65ecjv"
+  "problemUrl": "https://leetcode.com/problems/contains-duplicate/?utm_source=chatgpt.com",
+  "submissionId": "p9wmmd"
 }
