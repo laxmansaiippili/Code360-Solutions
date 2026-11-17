@@ -7,7 +7,7 @@
  * Topics: Array, Matrix, Discover more
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-17T17:29:30.109Z
+ * Synced: 2026-11-17T17:30:16.010Z
  */
 
 class Solution(object):
@@ -20,4 +20,6 @@ class Solution(object):
             sum=0;
             for j in range(len(accounts[])):
         maxsum=0;
-                sum=sum+s
+                sum=sum+accounts[i][j];
+            maxsum=max(sum,maxsum);
+        return
