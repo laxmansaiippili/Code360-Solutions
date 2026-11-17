@@ -34,5 +34,12 @@
   ],
   "leetcode:build-array-from-permutation": [],
   "leetcode:richest-customer-wealth": [],
-  "leetcode:concatenation-of-array": []
+  "leetcode:concatenation-of-array": [],
+  "leetcode:contains-duplicate": [
+    "Blind75",
+    "Grind75",
+    "Grind169",
+    "NeetCode150",
+    "StriverA2Z"
+  ]
 }
