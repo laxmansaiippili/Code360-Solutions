@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/build-array-from-permutation/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:16:06.226Z
+- Synced: 2026-11-17T17:16:51.407Z
 
 ## Problem Description
 
