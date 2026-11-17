@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-11-17T17:43:39.763Z",
+  "submissionTimestamp": "2026-11-17T17:44:25.062Z",
   "runtime": "0 ms",
   "memoryUsage": "25.44 MB",
   "difficulty": "Easy",
@@ -12,6 +12,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Contains Duplicate",
-  "problemUrl": "https://leetcode.com/problems/contains-duplicate/submissions/2198190873/?utm_source=chatgpt.com",
-  "submissionId": "iix37s"
+  "problemUrl": "https://leetcode.com/problems/contains-duplicate/?utm_source=chatgpt.com",
+  "submissionId": "p35z68"
 }
