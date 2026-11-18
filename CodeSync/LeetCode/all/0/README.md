@@ -2,17 +2,17 @@
 
 - Platform: LeetCode
 - Language: Problem List
-- Difficulty: Easy
-- Topics: Array, Simulation
+- Difficulty: Medium
+- Topics: Array, Divide and Conquer, Dynamic Programming
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/concatenation-of-array/description/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:33:07.967Z
+- Problem URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
+- Synced: 2026-11-18T05:41:57.475Z
 
 ## Problem Description
 
-Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed). Specifically, ans is the concatenation of two nums arrays. Return the array ans. Original Python Example 1: Input: nums = [1,2,1] Output: [1,2,1,1,2,1] Explanation: The array ans is formed as follows: - ans = [nums[0],nums[1],nums[2],nums[0],nums[1],nums[2]] - ans = [1,2,1,1,2,1] Example 2: Input: nums = [1,3,2,1] Output: [1,3,2,1,1,3,2,1] Explanation: The array ans is formed as follows: - ans = [nums[0],nums[1],nums[2],nums[3],nums[0],nums[1],nums[2],nums[3]] - ans = [1,3,2,1,1,3,2,1] Constraints: n == nums.length 1 <= n <= 1000 1 <= nums[i] <= 1000
+Given an integer array nums, find the subarray with the largest sum, and return its sum. Example 1: Input: nums = [-2,1,-3,4,-1,2,1,-5,4] Output: 6 Explanation: The subarray [4,-1,2,1] has the largest sum 6. Example 2: Input: nums = [1] Output: 1 Explanation: The subarray [1] has the largest sum 1. Example 3: Input: nums = [5,4,-1,7,8] Output: 23 Explanation: The subarray [5,4,-1,7,8] has the largest sum 23. Constraints: 1 <= nums.length <= 105 -104 <= nums[i] <= 104 Follow up: If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Array, Simulation. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Array, Divide and Conquer, Dynamic Programming. Review the synced source file for the implementation details.
