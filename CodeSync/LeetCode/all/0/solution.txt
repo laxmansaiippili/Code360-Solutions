@@ -1,18 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/concatenation-of-array/description/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
  * Language: Problem List
- * Difficulty: Easy
- * Topics: Array, Simulation
+ * Difficulty: Medium
+ * Topics: Array, Divide and Conquer, Dynamic Programming
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-17T17:33:07.967Z
+ * Synced: 2026-11-18T05:41:57.475Z
  */
 
 class Solution(object):
-    def getConcatenation(self, nums):
+    def maxSubArray(self, nums):
         """
         :type nums: List[int]
-        :rtype: List[int]
+        :rtype: int
         """
