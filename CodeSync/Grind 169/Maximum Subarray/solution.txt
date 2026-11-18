@@ -4,10 +4,10 @@
  * URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Medium
- * Topics: Array, Divide and Conquer, Dynamic Programming, Discover more
+ * Topics: Array, Divide and Conquer, Dynamic Programming
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-17T17:56:07.686Z
+ * Synced: 2026-11-18T05:42:44.567Z
  */
 
 class Solution(object):
