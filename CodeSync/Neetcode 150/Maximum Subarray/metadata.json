@@ -1,13 +1,12 @@
 {
-  "submissionTimestamp": "2026-11-17T17:56:07.686Z",
+  "submissionTimestamp": "2026-11-18T05:42:44.567Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
     "Array",
     "Divide and Conquer",
-    "Dynamic Programming",
-    "Discover more"
+    "Dynamic Programming"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
