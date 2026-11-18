@@ -1,17 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/set-matrix-zeroes/description/
+ * URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Medium
- * Topics: Array, Hash Table, Matrix
+ * Topics: Array, Divide and Conquer, Dynamic Programming
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-08-22T01:41:41.204Z
+ * Synced: 2026-11-18T05:41:57.475Z
  */
 
-class Solution {
-    public void setZeroes(int[][] matrix) {
-        
-    }
-}
+class Solution(object):
+    def maxSubArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
