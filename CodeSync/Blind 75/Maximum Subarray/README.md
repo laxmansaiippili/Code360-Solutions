@@ -3,11 +3,11 @@
 - Platform: LeetCode
 - Language: Problem List
 - Difficulty: Medium
-- Topics: Array, Divide and Conquer, Dynamic Programming, Discover more
+- Topics: Array, Divide and Conquer, Dynamic Programming
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
-- Synced: 2026-11-17T17:56:07.686Z
+- Synced: 2026-11-18T05:42:44.567Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ Given an integer array nums, find the subarray with the largest sum, and return 
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Array, Divide and Conquer, Dynamic Programming, Discover more. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Array, Divide and Conquer, Dynamic Programming. Review the synced source file for the implementation details.
