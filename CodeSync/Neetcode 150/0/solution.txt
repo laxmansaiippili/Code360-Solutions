@@ -1,29 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+ * URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
  * Language: Problem List
- * Difficulty: Easy
- * Topics: Array, Dynamic Programming
+ * Difficulty: Medium
+ * Topics: Array, Divide and Conquer, Dynamic Programming
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-08-22T01:42:28.335Z
+ * Synced: 2026-11-18T05:41:57.475Z
  */
 
 class Solution(object):
-    def maxProfit(self, prices):
+    def maxSubArray(self, nums):
         """
-        :type prices: List[int]
+        :type nums: List[int]
         :rtype: int
         """
-        x=prices[0];
-        i=1;
-        maxprofit=0;
-        while(i<len(prices)):
-            if(prices[i]>x):
-                maxprofit=max(maxprofit,prices[i]-x);
-                
-            else:
-                x=prices[i];
-            i+=1;
-        return maxprofit;
