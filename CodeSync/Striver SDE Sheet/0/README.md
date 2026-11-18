@@ -2,17 +2,17 @@
 
 - Platform: LeetCode
 - Language: Problem List
-- Difficulty: Easy
-- Topics: Array, Two Pointers, Sorting
+- Difficulty: Medium
+- Topics: Array, Divide and Conquer, Dynamic Programming
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/merge-sorted-array/description/
-- Synced: 2026-11-15T15:17:12.975Z
+- Problem URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
+- Synced: 2026-11-18T05:41:57.475Z
 
 ## Problem Description
 
-You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively. Merge nums1 and nums2 into a single array sorted in non-decreasing order. The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n. Original Java Example 1: Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3 Output: [1,2,2,3,5,6] Explanation: The arrays we are merging are [1,2,3] and [2,5,6]. The result of the merge is [1,2,2,3,5,6] with the underlined elements coming from nums1. Example 2: Input: nums1 = [1], m = 1, nums2 = [], n = 0 Output: [1] Explanation: The arrays we are merging are [1] and []. The result of the merge is [1]. Example 3: Input: nums1 = [0], m = 0, nums2 = [1], n = 1 Output: [1] Explanation: The arrays we are merging are [] and [1]. The result of the merge is [1]. Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1. Constraints: nums1.length == m + n nums2.length == n 0 <= m, n <= 200 1 <= m + n <= 200 -109 <= nums1[i], nums2[j] <= 109 Follow up: Can you come up with an algorithm that runs in O(m + n) time?
+Given an integer array nums, find the subarray with the largest sum, and return its sum. Example 1: Input: nums = [-2,1,-3,4,-1,2,1,-5,4] Output: 6 Explanation: The subarray [4,-1,2,1] has the largest sum 6. Example 2: Input: nums = [1] Output: 1 Explanation: The subarray [1] has the largest sum 1. Example 3: Input: nums = [5,4,-1,7,8] Output: 23 Explanation: The subarray [5,4,-1,7,8] has the largest sum 23. Constraints: 1 <= nums.length <= 105 -104 <= nums[i] <= 104 Follow up: If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
 ## Explanation
 
-This solution was accepted on LeetCode using Problem List. The detected topics are Array, Two Pointers, Sorting. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Array, Divide and Conquer, Dynamic Programming. Review the synced source file for the implementation details.
