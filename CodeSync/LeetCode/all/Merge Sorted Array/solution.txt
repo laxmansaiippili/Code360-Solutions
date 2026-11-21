@@ -1,32 +1,24 @@
 /*
  * Platform: LeetCode
  * Problem: Merge Sorted Array
- * URL: https://leetcode.com/problems/merge-sorted-array/solutions/
+ * URL: https://leetcode.com/problems/merge-sorted-array/solutions/1176400/best-python-solution-faster-than-99-one-aa9px/
  * Language: Problem List
- * Difficulty: Easy
- * Topics: Array, Two Pointers, Sorting
- * Runtime: . S
+ * Difficulty: Hard
+ * Topics: Uncategorized
+ * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-21T17:34:56.892Z
+ * Synced: 2026-11-21T17:36:33.387Z
  */
 
-"""
-        :type nums1: List[int]
-        :type m: int
-        :type nums2: List[int]
-        :type n: int
-        :rtype: None Do not return anything, modify nums1 in-place instead.
-        """
-        i=0;j=0;
-        temp=0;
-        while(i<len(nums1)):
-            if(nums2[j]<nums1[i] || nums1[i]==0):
-                temp=nums1[i];
-                nums1[i]=nums2[j];
-                j+=1;
-        ispc=False;
-                ispc=True;
-            if(ispc==True):
-                nums1[i],temp=temp,nums[i];
-                ispc=False;
-            i+=1;
+[1,2,3,0,0,0]
+3
+[2,5,6]
+3
+[1]
+1
+[]
+0
+[0]
+0
+[1]
+1
