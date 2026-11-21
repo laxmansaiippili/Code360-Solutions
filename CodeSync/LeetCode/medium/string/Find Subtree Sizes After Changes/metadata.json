@@ -1,0 +1,18 @@
+{
+  "submissionTimestamp": "2026-11-21T01:55:04.357Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "platform": "LeetCode",
+  "language": "Daily Question",
+  "problemTitle": "Find Subtree Sizes After Changes",
+  "problemUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21",
+  "submissionId": "d13pp3"
+}
