@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Remove Duplicates from Sorted Array
- * URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array/?utm_source=chatgpt.com
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Two Pointers
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-18T05:51:06.384Z
+ * Synced: 2026-11-18T05:51:51.729Z
  */
 
 class Solution(object):
