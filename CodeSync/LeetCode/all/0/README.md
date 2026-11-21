@@ -1,18 +1,18 @@
 # 0
 
 - Platform: LeetCode
-- Language: Daily Question
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Tree, Depth-First Search
+- Language: Problem List
+- Difficulty: Easy
+- Topics: Array, Two Pointers, Sorting
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21
-- Synced: 2026-11-21T01:54:10.032Z
+- Problem URL: https://leetcode.com/problems/merge-sorted-array/description/
+- Synced: 2026-11-21T17:10:13.210Z
 
 ## Problem Description
 
-You are given a tree rooted at node 0 that consists of n nodes numbered from 0 to n - 1. The tree is represented by an array parent of size n, where parent[i] is the parent of node i. Since node 0 is the root, parent[0] == -1. You are also given a string s of length n, where s[i] is the character assigned to node i. We make the following changes on the tree one time simultaneously for all nodes x from 1 to n - 1: Find the closest node y to node x such that y is an ancestor of x, and s[x] == s[y]. If node y does not exist, do nothing. Otherwise, remove the edge between x and its current parent and make node y the new parent of x by adding an edge between them. Return an array answer of size n where answer[i] is the size of the subtree rooted at node i in the final tree. Original Python Example 1: Input: parent = [-1,0,0,1,1,1], s = "abaabc" Output: [6,3,1,1,1,1] Explanation: The parent of node 3 will change from node 1 to node 0. Example 2: Input: parent = [-1,0,4,0,1], s = "abbba" Output: [5,2,1,1,1] Explanation: The following changes will happen at the same time: The parent of node 4 will change from node 1 to node 0. The parent of node 2 will change from node 4 to node 1. Constraints: n == parent.length == s.length 1 <= n <= 105 0 <= parent[i] <= n - 1 for all i >= 1. parent[0] == -1 parent represents a valid tree. s consists only of lowercase English letters.
+You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively. Merge nums1 and nums2 into a single array sorted in non-decreasing order. The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n. Original Java Example 1: Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3 Output: [1,2,2,3,5,6] Explanation: The arrays we are merging are [1,2,3] and [2,5,6]. The result of the merge is [1,2,2,3,5,6] with the underlined elements coming from nums1. Example 2: Input: nums1 = [1], m = 1, nums2 = [], n = 0 Output: [1] Explanation: The arrays we are merging are [1] and []. The result of the merge is [1]. Example 3: Input: nums1 = [0], m = 0, nums2 = [1], n = 1 Output: [1] Explanation: The arrays we are merging are [] and [1]. The result of the merge is [1]. Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1. Constraints: nums1.length == m + n nums2.length == n 0 <= m, n <= 200 1 <= m + n <= 200 -109 <= nums1[i], nums2[j] <= 109 Follow up: Can you come up with an algorithm that runs in O(m + n) time?
 
 ## Explanation
 
-This solution was accepted on LeetCode using Daily Question. The detected topics are Array, Hash Table, String, Tree, Depth-First Search. Review the synced source file for the implementation details.
+This solution was accepted on LeetCode using Problem List. The detected topics are Array, Two Pointers, Sorting. Review the synced source file for the implementation details.
