@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-11-21T01:37:51.044Z",
-  "runtime": ". S",
+  "submissionTimestamp": "2026-11-21T01:49:59.386Z",
+  "runtime": "0 ms",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
@@ -11,5 +11,5 @@
   "language": "Problem List",
   "problemTitle": "Move Zeroes",
   "problemUrl": "https://leetcode.com/problems/move-zeroes/?utm=codolio",
-  "submissionId": "awh3kt"
+  "submissionId": "t97e9k"
 }
