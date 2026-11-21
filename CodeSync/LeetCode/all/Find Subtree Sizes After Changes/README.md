@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21
-- Synced: 2026-11-21T15:40:23.374Z
+- Synced: 2026-11-21T15:46:39.613Z
 
 ## Problem Description
 
