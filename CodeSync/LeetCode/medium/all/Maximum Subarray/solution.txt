@@ -7,7 +7,7 @@
  * Topics: Array, Divide and Conquer, Dynamic Programming
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-18T05:45:55.588Z
+ * Synced: 2026-11-18T05:49:21.657Z
  */
 
 class Solution(object):
