@@ -52,5 +52,6 @@
     "StriverSDE"
   ],
   "leetcode:remove-duplicates-from-sorted-array": [],
-  "leetcode:move-zeroes": []
+  "leetcode:move-zeroes": [],
+  "leetcode:find-subtree-sizes-after-changes": []
 }
