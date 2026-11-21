@@ -1,16 +1,18 @@
 {
-  "submissionTimestamp": "2026-11-18T05:41:57.475Z",
+  "submissionTimestamp": "2026-11-21T01:54:10.032Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
     "Array",
-    "Divide and Conquer",
-    "Dynamic Programming"
+    "Hash Table",
+    "String",
+    "Tree",
+    "Depth-First Search"
   ],
   "platform": "LeetCode",
-  "language": "Problem List",
+  "language": "Daily Question",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com",
-  "submissionId": "v9ox1c"
+  "problemUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21",
+  "submissionId": "moo7wd"
 }
