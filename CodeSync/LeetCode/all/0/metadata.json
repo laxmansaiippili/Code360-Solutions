@@ -1,14 +1,18 @@
 {
-  "submissionTimestamp": "2026-11-21T01:53:57.673Z",
-  "runtime": "7 ms",
-  "memoryUsage": "13.21 MB",
-  "difficulty": "Hard",
+  "submissionTimestamp": "2026-11-21T01:54:10.032Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Medium",
   "tags": [
-    "Uncategorized"
+    "Array",
+    "Hash Table",
+    "String",
+    "Tree",
+    "Depth-First Search"
   ],
   "platform": "LeetCode",
-  "language": "Problem List",
+  "language": "Daily Question",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/move-zeroes/submissions/2200277950/?utm=codolio",
-  "submissionId": "csz9px"
+  "problemUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21",
+  "submissionId": "moo7wd"
 }
