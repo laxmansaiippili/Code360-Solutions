@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?utm_source=chatgpt.com
-- Synced: 2026-11-18T05:50:17.296Z
+- Synced: 2026-11-18T05:51:06.384Z
 
 ## Problem Description
 
