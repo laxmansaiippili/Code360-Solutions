@@ -7,7 +7,7 @@
  * Topics: Array, Hash Table, String, Tree, Depth-First Search
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-21T15:39:21.001Z
+ * Synced: 2026-11-21T15:40:23.374Z
  */
 
 [-1,0,0,1,1,1]
