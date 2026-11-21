@@ -7,7 +7,7 @@
  * Topics: Array, Two Pointers
  * Runtime: . S
  * Memory: N/A
- * Synced: 2026-11-21T01:35:23.875Z
+ * Synced: 2026-11-21T01:36:10.274Z
  */
 
 class Solution(object):
@@ -21,3 +21,6 @@ class Solution(object):
         while(i<n):
         if(nums[i]==0):
             i+=1;
+        else:
+
+            nums[j]=
