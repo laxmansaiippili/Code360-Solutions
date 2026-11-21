@@ -5,9 +5,9 @@
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Two Pointers
- * Runtime: . S
+ * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-11-21T01:37:51.044Z
+ * Synced: 2026-11-21T01:49:59.386Z
  */
 
 class Solution(object):
@@ -16,12 +16,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        i=1;j=0;
+        i=0;j=0;
         n=len(nums);
         while(i<n):
             if(nums[i]!=0):
-                i+=1;
-            else:
-
-                nums[j]=nums[i-1];
+                nums[j]=nums[i];
                 j+=1;
+            i+=1;
+               
+        while(j<n):
+            nums[j]=0;
+
+            j+=1;
