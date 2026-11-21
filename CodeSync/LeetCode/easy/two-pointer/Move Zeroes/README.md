@@ -7,7 +7,7 @@
 - Runtime: . S
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/move-zeroes/?utm=codolio
-- Synced: 2026-11-21T01:36:10.274Z
+- Synced: 2026-11-21T01:36:55.749Z
 
 ## Problem Description
 
