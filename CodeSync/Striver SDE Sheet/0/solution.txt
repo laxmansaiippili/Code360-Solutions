@@ -1,18 +1,25 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
+ * URL: https://leetcode.com/problems/merge-sorted-array/description/
  * Language: Problem List
- * Difficulty: Medium
- * Topics: Array, Divide and Conquer, Dynamic Programming
+ * Difficulty: Easy
+ * Topics: Array, Two Pointers, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-18T05:41:57.475Z
+ * Synced: 2026-11-21T17:10:13.210Z
  */
 
-class Solution(object):
-    def maxSubArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int mer[]=new int[m+n];
+        int i=0,j=0,k=0;
+        for(;k<m+n-i-j;)
+        {
+            if(nums1[i]<nums2[j])
+                mer[k++]=nums1[i++];
+            if(nums1[i]>nums2[j])
+                mer[k++]=nums2[j++];
+        }
+    }
+}
