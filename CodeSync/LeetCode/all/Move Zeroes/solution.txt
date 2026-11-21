@@ -7,7 +7,7 @@
  * Topics: Array, Two Pointers
  * Runtime: . S
  * Memory: N/A
- * Synced: 2026-11-21T01:32:05.882Z
+ * Synced: 2026-11-21T01:32:55.334Z
  */
 
 class Solution(object):
@@ -22,4 +22,4 @@ class Solution(object):
         if(nums[i]!=0):
             i+=1;
         else:
-            nums[i]=n
+            nums[i]=nums[j]
