@@ -1,0 +1,15 @@
+{
+  "submissionTimestamp": "2026-11-18T05:50:17.296Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "platform": "LeetCode",
+  "language": "Problem List",
+  "problemTitle": "Remove Duplicates from Sorted Array",
+  "problemUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?utm_source=chatgpt.com",
+  "submissionId": "75067z"
+}
