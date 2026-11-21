@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/merge-sorted-array/solutions/1176400/best-python-solution-faster-than-99-one-aa9px/
-- Synced: 2026-11-21T17:36:33.387Z
+- Synced: 2026-11-21T17:41:39.344Z
 
 ## Problem Description
 
