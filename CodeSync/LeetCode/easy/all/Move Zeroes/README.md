@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 13.21 MB
 - Problem URL: https://leetcode.com/problems/move-zeroes/submissions/2200277950/?utm=codolio
-- Synced: 2026-11-21T01:51:06.326Z
+- Synced: 2026-11-21T01:51:55.463Z
 
 ## Problem Description
 
