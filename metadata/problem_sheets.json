@@ -53,5 +53,10 @@
   ],
   "leetcode:remove-duplicates-from-sorted-array": [],
   "leetcode:move-zeroes": [],
-  "leetcode:find-subtree-sizes-after-changes": []
+  "leetcode:find-subtree-sizes-after-changes": [],
+  "leetcode:merge-sorted-array": [
+    "StriverSDE",
+    "StriverA2Z",
+    "AlgoMaster300"
+  ]
 }
