@@ -1,19 +1,25 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21
- * Language: Daily Question
- * Difficulty: Medium
- * Topics: Array, Hash Table, String, Tree, Depth-First Search
+ * URL: https://leetcode.com/problems/merge-sorted-array/description/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array, Two Pointers, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-21T01:54:10.032Z
+ * Synced: 2026-11-21T17:10:13.210Z
  */
 
-class Solution(object):
-    def findSubtreeSizes(self, parent, s):
-        """
-        :type parent: List[int]
-        :type s: str
-        :rtype: List[int]
-        """
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int mer[]=new int[m+n];
+        int i=0,j=0,k=0;
+        for(;k<m+n-i-j;)
+        {
+            if(nums1[i]<nums2[j])
+                mer[k++]=nums1[i++];
+            if(nums1[i]>nums2[j])
+                mer[k++]=nums2[j++];
+        }
+    }
+}
