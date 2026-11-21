@@ -1,28 +1,29 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/move-zeroes/description/?utm=codolio
+ * URL: https://leetcode.com/problems/move-zeroes/submissions/2200277950/?utm=codolio
  * Language: Problem List
- * Difficulty: Easy
- * Topics: Array, Two Pointers
- * Runtime: N/A
- * Memory: N/A
- * Synced: 2026-11-21T01:30:31.298Z
+ * Difficulty: Hard
+ * Topics: Uncategorized
+ * Runtime: 7 ms
+ * Memory: 13.21 MB
+ * Synced: 2026-11-21T01:53:57.673Z
  */
 
 class Solution(object):
     def moveZeroes(self, nums):
         """
         :type nums: List[int]
-        :rtype: None Do not return anything, 
-        modify nums in-place instead.
+        :rtype: None Do not return anything, modify nums in-place instead.
         """
-        i=1;j=0;
+        i=0;j=0;
         n=len(nums);
+        while(i<n):
+            if(nums[i]!=0):
+                nums[j]=nums[i];
+                j+=1;
+            i+=1;
+               
         while(j<n):
-            if(nums[j]==0):
-                nums[j]=nums[i]
-                nums[i]=0;
-                i=i+1;
-            else:
-                j=j+1;
+            nums[j]=0;
+            j+=1;
