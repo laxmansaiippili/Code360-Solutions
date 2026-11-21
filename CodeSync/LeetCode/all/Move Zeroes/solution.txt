@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Move Zeroes
- * URL: https://leetcode.com/problems/move-zeroes/description/?utm=codolio
+ * URL: https://leetcode.com/problems/move-zeroes/?utm=codolio
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Two Pointers
  * Runtime: . S
  * Memory: N/A
- * Synced: 2026-11-21T00:45:43.547Z
+ * Synced: 2026-11-21T00:46:39.148Z
  */
 
 class Solution(object):
