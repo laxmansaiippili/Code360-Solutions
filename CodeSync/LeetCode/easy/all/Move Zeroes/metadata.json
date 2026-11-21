@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-11-21T00:45:43.547Z",
+  "submissionTimestamp": "2026-11-21T00:46:39.148Z",
   "runtime": ". S",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Move Zeroes",
-  "problemUrl": "https://leetcode.com/problems/move-zeroes/description/?utm=codolio",
+  "problemUrl": "https://leetcode.com/problems/move-zeroes/?utm=codolio",
   "submissionId": "bnyoda"
 }
