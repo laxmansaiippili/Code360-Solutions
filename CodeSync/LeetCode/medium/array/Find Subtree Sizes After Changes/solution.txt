@@ -7,13 +7,10 @@
  * Topics: Array, Hash Table, String, Tree, Depth-First Search
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-21T01:55:04.357Z
+ * Synced: 2026-11-21T14:57:42.410Z
  */
 
-class Solution(object):
-    def findSubtreeSizes(self, parent, s):
-        """
-        :type parent: List[int]
-        :type s: str
-        :rtype: List[int]
-        """
+[-1,0,0,1,1,1]
+"abaabc"
+[-1,0,4,0,1]
+"abbba"
