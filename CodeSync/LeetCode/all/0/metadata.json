@@ -1,16 +1,15 @@
 {
-  "submissionTimestamp": "2026-11-18T05:41:57.475Z",
+  "submissionTimestamp": "2026-11-21T01:30:31.298Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Divide and Conquer",
-    "Dynamic Programming"
+    "Two Pointers"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com",
-  "submissionId": "v9ox1c"
+  "problemUrl": "https://leetcode.com/problems/move-zeroes/description/?utm=codolio",
+  "submissionId": "7c6dw0"
 }
