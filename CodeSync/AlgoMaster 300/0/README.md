@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/merge-sorted-array/description/
-- Synced: 2026-11-15T15:17:12.975Z
+- Synced: 2026-11-21T17:10:13.210Z
 
 ## Problem Description
 
