@@ -7,7 +7,7 @@
  * Topics: Array, Two Pointers
  * Runtime: 0 ms
  * Memory: 13.21 MB
- * Synced: 2026-11-21T01:51:06.326Z
+ * Synced: 2026-11-21T01:51:55.463Z
  */
 
 [0,1,0,3,12]
