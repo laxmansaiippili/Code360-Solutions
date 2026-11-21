@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: Remove Duplicates from Sorted Array
+ * URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?utm_source=chatgpt.com
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array, Two Pointers
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-18T05:50:17.296Z
+ */
+
+class Solution(object):
+    def removeDuplicates(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
