@@ -1,16 +1,16 @@
 {
-  "submissionTimestamp": "2026-11-18T05:41:57.475Z",
+  "submissionTimestamp": "2026-11-21T17:10:13.210Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Divide and Conquer",
-    "Dynamic Programming"
+    "Two Pointers",
+    "Sorting"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com",
-  "submissionId": "v9ox1c"
+  "problemUrl": "https://leetcode.com/problems/merge-sorted-array/description/",
+  "submissionId": "nd4n1q"
 }
