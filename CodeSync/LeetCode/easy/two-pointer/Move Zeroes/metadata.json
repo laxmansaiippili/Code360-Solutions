@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-11-21T01:49:59.386Z",
+  "submissionTimestamp": "2026-11-21T01:51:06.326Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "13.21 MB",
   "difficulty": "Easy",
   "tags": [
     "Array",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Move Zeroes",
-  "problemUrl": "https://leetcode.com/problems/move-zeroes/?utm=codolio",
-  "submissionId": "t97e9k"
+  "problemUrl": "https://leetcode.com/problems/move-zeroes/submissions/2200277950/?utm=codolio",
+  "submissionId": "i4baqd"
 }
