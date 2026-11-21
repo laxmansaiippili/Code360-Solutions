@@ -1,18 +1,19 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/maximum-subarray/description/?utm_source=chatgpt.com
- * Language: Problem List
+ * URL: https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21
+ * Language: Daily Question
  * Difficulty: Medium
- * Topics: Array, Divide and Conquer, Dynamic Programming
+ * Topics: Array, Hash Table, String, Tree, Depth-First Search
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-18T05:41:57.475Z
+ * Synced: 2026-11-21T01:54:10.032Z
  */
 
 class Solution(object):
-    def maxSubArray(self, nums):
+    def findSubtreeSizes(self, parent, s):
         """
-        :type nums: List[int]
-        :rtype: int
+        :type parent: List[int]
+        :type s: str
+        :rtype: List[int]
         """
