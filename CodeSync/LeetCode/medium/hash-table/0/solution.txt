@@ -1,0 +1,19 @@
+/*
+ * Platform: LeetCode
+ * Problem: 0
+ * URL: https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21
+ * Language: Daily Question
+ * Difficulty: Medium
+ * Topics: Array, Hash Table, String, Tree, Depth-First Search
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-21T01:54:10.032Z
+ */
+
+class Solution(object):
+    def findSubtreeSizes(self, parent, s):
+        """
+        :type parent: List[int]
+        :type s: str
+        :rtype: List[int]
+        """
