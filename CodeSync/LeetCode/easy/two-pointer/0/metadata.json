@@ -1,16 +1,15 @@
 {
-  "submissionTimestamp": "2026-11-15T15:17:12.975Z",
+  "submissionTimestamp": "2026-11-21T01:30:31.298Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
     "Array",
-    "Two Pointers",
-    "Sorting"
+    "Two Pointers"
   ],
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/merge-sorted-array/description/",
-  "submissionId": "jkuk6v"
+  "problemUrl": "https://leetcode.com/problems/move-zeroes/description/?utm=codolio",
+  "submissionId": "7c6dw0"
 }
