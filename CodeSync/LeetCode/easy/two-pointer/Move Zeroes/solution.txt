@@ -7,7 +7,7 @@
  * Topics: Array, Two Pointers
  * Runtime: . S
  * Memory: N/A
- * Synced: 2026-11-21T00:52:28.503Z
+ * Synced: 2026-11-21T00:55:16.269Z
  */
 
 class Solution(object):
@@ -16,7 +16,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        i=0;j=0;
+        i=1;j=0;
         n=len(nums);
         while(j<n):
             if(nums[j]==0):
